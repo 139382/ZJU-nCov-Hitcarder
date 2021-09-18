@@ -8,10 +8,10 @@ branding:
 
 inputs:
   username:
-    description: zju account username(student id).
+    description: 22060493
     required: true
   password:
-    description: zju account password.
+    description: zju120017
     required: true
   dingtalk_token:
     description: dingtalk_token.
